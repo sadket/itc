@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Archive';
+    src: url('../fonts/archive-webfont.eot');
+    src: url('../fonts/archive-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/archive-webfont.woff') format('woff'),
+         url('../fonts/archive-webfont.ttf') format('truetype'),
+         url('../fonts/archive-webfont.svg#archiveregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'GardenSC';
+    src: url('../fonts/gardensc-webfont.eot');
+    src: url('../fonts/gardensc-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/gardensc-webfont.woff') format('woff'),
+         url('../fonts/gardensc-webfont.ttf') format('truetype'),
+         url('../fonts/gardensc-webfont.svg#gardenscregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
